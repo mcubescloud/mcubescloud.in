@@ -7,7 +7,7 @@ subtitle: Authentic Cloud & Devops Guy
 My name is S.Mohamed. I have the following qualities:
 
 - Always try to learn new Technologies
-- Will Respect the work more than company
+- Will Respect the work more than a company
 
 What else do you need?
 
