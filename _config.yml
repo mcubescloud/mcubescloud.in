@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+theme_settings :
+  title : Mcubes-Cloud
+  favicon : assets/favicon.ico
 
 # Name of website
 title: Mcubes Cloud
@@ -33,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/mcubes.png
+#title-img: /assets/img/mcubes.png
 
 
 # --- Footer social media links --- #
