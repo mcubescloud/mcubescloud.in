@@ -5,6 +5,10 @@
 
 # --- Required options --- #
 
+theme_settings :
+  title : "Mcubes Cloud"
+  favicon : assets/Logo.ico
+
 # Name of website
 title: Mcubes Cloud
 
