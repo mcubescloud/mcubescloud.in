@@ -7,11 +7,10 @@
 
 theme_settings :
   title : Mcubes-Cloud
-  favicon : assets/favicon.ico
+  favicon : assets/logo.ico
 
 # Name of website
 title: Mcubes Cloud
-favicon : assets/Logo.ico
 
 # Your name to show in the footer
 author: S.Mohamed
