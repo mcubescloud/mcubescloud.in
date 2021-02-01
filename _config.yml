@@ -20,9 +20,9 @@ author: S.Mohamed
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Navil-Varta: "https://navilvarta.ga"
-    - Blog: "https://mcubescloud.tk/"
-  Author's home: "https://mcubescloud.tk/portfolio"
+    - Navil-Varta: "https://navil.mcubescloud.in"
+    - Blog: "https://blog.mcubescloud.in/"
+  Author's home: "https://blogs.mcubescloud.in/portfolio"
 
 # --- Logo --- #
 
@@ -43,7 +43,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mcubes@mcubescloud.in"
+  email: "mcubescloud@gmail.com"
   facebook: mcubescloud
   github: mdy007
   twitter: MhdMdY
