@@ -13,7 +13,7 @@ What else do you need?
 
 ### My story
 
-Be Simple, Do great things, Follow my Blogs [Mohamed-Blogs](https://mcubescloud.tk) and Interesting info in [Navil-Varta](https://navilvarta.ga)
+Be Simple, Do great things, Follow my Blogs [Mohamed-Blogs](https://blog.mcubescloud.in) and Interesting info in [Navil-Varta](https://navil.mcubescloud.in)
 
 
 Regards,
